@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/归档文件/HITSZ课程/研一下/数据结构与算法分析/DS-homework/Final/CampusGuideSystem/./include/guide_system.h
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+sstream
+-
+cmath
+-
+
+/mnt/e/归档文件/HITSZ课程/研一下/数据结构与算法分析/DS-homework/Final/CampusGuideSystem/main.cpp
+./include/guide_system.h
+/mnt/e/归档文件/HITSZ课程/研一下/数据结构与算法分析/DS-homework/Final/CampusGuideSystem/./include/guide_system.h
+
